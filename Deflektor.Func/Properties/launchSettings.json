@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Deflektor.Func": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7291",
+      "launchBrowser": false
+    }
+  }
+}
