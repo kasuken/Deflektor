@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.14.36121.58 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deflektor.Func", "Deflektor.Func\Deflektor.Func.csproj", "{080FC593-E312-44B5-A0D3-A29EDEDB9F3A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deflektor.Func", "Deflektor.Func\Deflektor.Func.csproj", "{11AB1884-8B93-4572-AF11-2F72B2C37AFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{080FC593-E312-44B5-A0D3-A29EDEDB9F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{080FC593-E312-44B5-A0D3-A29EDEDB9F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{080FC593-E312-44B5-A0D3-A29EDEDB9F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{080FC593-E312-44B5-A0D3-A29EDEDB9F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11AB1884-8B93-4572-AF11-2F72B2C37AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AB1884-8B93-4572-AF11-2F72B2C37AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AB1884-8B93-4572-AF11-2F72B2C37AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AB1884-8B93-4572-AF11-2F72B2C37AFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {A4D28C7A-7954-48EE-8734-3927F13F18E5}
+		SolutionGuid = {6ED54BE5-E66E-4404-A621-CC91791B4437}
 	EndGlobalSection
 EndGlobal
