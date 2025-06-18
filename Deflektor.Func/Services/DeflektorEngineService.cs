@@ -116,7 +116,7 @@ public class DeflektorEngineService : IDeflektorEngineService
             This is the email body from the user:
 
             ```
-            {emailBody}
+            {{$emailBody}}
             ```
         ";
     }
